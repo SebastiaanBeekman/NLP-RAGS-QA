@@ -3,3 +3,6 @@ torch
 python-dotenv
 transformers
 tqdm
+faiss-cpu
+accelerate
+bitsandbytes
