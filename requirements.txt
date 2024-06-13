@@ -6,3 +6,4 @@ tqdm
 faiss-cpu
 accelerate
 bitsandbytes
+nltk
